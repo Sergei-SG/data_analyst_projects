@@ -1,1 +1,18 @@
+# Исследование рынка общественного питания в Москве
+[ipynb](https://github.com/Sergei-SG/data_analyst_projects/blob/main/Catering%20in%20Moscow/catering_in_moscow.ipynb)
+[HTML](https://drive.google.com/file/d/1QGgdwZKEiXta0NjX515wAsnXzUeWMCAA/view?usp=sharing)
 
+## Описание проекта
+Исследование рынка общественного питания на основе открытых данных, подготовка презентации
+
+## Стек
+* python
+* pandas
+* matplotlib
+* seaborn
+* plotly
+* folium
+* визуализация данных
+
+## Вывод
+Подготовлено исследование рынка на основе открытых данных о заведениях общественного питания Москвы, визуализированы полученные данные. На основе данных выбрано место для открытия новой кофейни. В построении графиков я использованы библиотеки seaborn и plotly.
