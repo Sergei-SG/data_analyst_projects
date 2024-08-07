@@ -1,6 +1,5 @@
 # Анализ пользовательского поведения в мобильном приложении
 [ipynb](https://github.com/Sergei-SG/data_analyst_projects/blob/main/Behavior%20users%20of%20retail%20app/behavior_users_of_retail_app.ipynb)
-[HTML](https://drive.google.com/file/d/1pSZbYx-Kq-MZL7LajcIrhzAOKbnjkEf1/view?usp=sharing)
 
 ## Описание проекта
 Анализ воронки продаж на основе данных использования мобильного приложения для продажи продуктов питания, а также оценка результатов A/A/B-тестирования
