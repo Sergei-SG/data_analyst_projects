@@ -1,6 +1,5 @@
 # Исследование рынка общественного питания в Москве
 [ipynb](https://github.com/Sergei-SG/data_analyst_projects/blob/main/Catering%20in%20Moscow/catering_in_moscow.ipynb)
-[HTML](https://drive.google.com/file/d/1QGgdwZKEiXta0NjX515wAsnXzUeWMCAA/view?usp=sharing)
 
 ## Описание проекта
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации
