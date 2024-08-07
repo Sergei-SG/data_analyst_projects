@@ -1,5 +1,5 @@
 # Анализ поведения пользователей в мобильном приложении
-[ipynb](https://github.com/Sergei-SG/data_analyst_projects/blob/main/Behavior%20users%20of%20retail%20app/behavior_users_of_retail_app.ipynb)
+[ipynb](https://github.com/Sergei-SG/data_analyst_projects/blob/main/Behavior%20users%20of%20mobile%20app/behavior_users_in_mobile_app%20.ipynb)
 
 ## Описание проекта
 Проанализировать связь целевого события — просмотра контактов — и других действий пользователей. Оценить, какие действия чаще совершают те пользователи, которые
